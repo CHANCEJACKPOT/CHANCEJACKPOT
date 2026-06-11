@@ -1,7 +1,8 @@
 <p align="center"> <img width="400" height="33" alt="image" src="https://github.com/user-attachments/assets/1c6de6ff-7692-43e3-bae2-5d93cc9028ad" />
 
 <p align="center"> <img width="20" height="20" alt="tumblr_73c1d04a8bd29b4ec213642e33e4196a_bfe9d957_75" src="https://github.com/user-attachments/assets/c05f1fce-4ecb-4b05-bf91-9e993b929c52" />
-
+ 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gamblersi&color=FF0000&label=🍷"> </p>  
 
 <p align="center"> <img width="550" height="230" alt="d5de28e09d311bcb5312820ec963e69a" src="https://github.com/user-attachments/assets/26a727f5-96dd-435f-840a-73520d315411" />
 
